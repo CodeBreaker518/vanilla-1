@@ -16,12 +16,14 @@
 <body>
     <div class="container">
         <h4 class="text-center">Carrito de Compras</h4>
+        <hr>
         <div class="contenido">
+
             <div class="compras">
                 <table class="table">
                     <thead>
                         <tr>
-                            <th scope="col">$</th>
+                            <th scope="col">#</th>
                             <th scope="col">Item</th>
                             <th scope="col">Cantidad</th>
                             <th scope="col">Acciones</th>
@@ -41,6 +43,7 @@
                 <h4 class="text-center">Productos</h4>
                 <div id='cards' class="row"></div>
             </div>
+
         </div>
     </div>
 
@@ -60,8 +63,32 @@
             <th scope="row">id</th>
             <td>Cafe</td>
             <td>1</td>
+            <td>
+                <button class="btn btn-success btn-sm">+</button>
+                |
+                <button class="btn btn-danger btn-sm">-</button>
+            </td>
+            <td>
+                $ <span>500</span>
+            </td>
         </tr>
     </template>
+
+    <template id="template-card">
+        <div class="col-12 col-md-6 mb-2">
+            <div class="card">
+                <img src="" alt="" class="card-img-top">
+                <div class="card-body">
+                    <h5>Titulo</h5>
+                    <p>Precio</p>
+                    <button class="btn btn-dark">
+                        Comprar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </template>
+
     <!--archivo de javascript-->
     <script src="./src/app.js"></script>
 </body>
