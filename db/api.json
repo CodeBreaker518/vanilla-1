@@ -1,53 +1,53 @@
 [
     {
-        "precio": 500,
+        "price": 500,
         "id": 1,
         "title": "Café",
-        "imageUrl": "https://picsum.photos/id/0/600"
+        "imageUrl": "https://picsum.photos/id/10/600"
     },{
-        "precio": 250,
+        "price": 250,
         "id": 2,
         "title": "Botella",
-        "imageUrl": "https://picsum.photos/id/1/600"
+        "imageUrl": "https://picsum.photos/id/20/600"
     },{
-        "precio": 50,
+        "price": 50,
         "id": 3,
         "title": "Mono",
-        "imageUrl": "https://picsum.photos/id/2/600"
+        "imageUrl": "https://picsum.photos/id/30/600"
     },{
-        "precio": 250,
+        "price": 250,
         "id": 4,
         "title": "Bolsa",
-        "imageUrl": "https://picsum.photos/id/3/600"
+        "imageUrl": "https://picsum.photos/id/40/600"
     },{
-        "precio": 10,
+        "price": 10,
         "id": 5,
         "title": "Salsa",
-        "imageUrl": "https://picsum.photos/id/4/600"
+        "imageUrl": "https://picsum.photos/id/50/600"
     },{
-        "precio": 36,
+        "price": 36,
         "id": 6,
         "title": "Asador",
-        "imageUrl": "https://picsum.photos/id/5/600"
+        "imageUrl": "https://picsum.photos/id/60/600"
     },{
-        "precio": 5,
+        "price": 5,
         "id": 7,
         "title": "pinza",
-        "imageUrl": "https://picsum.photos/id/6/600"
+        "imageUrl": "https://picsum.photos/id/70/600"
     },{
-        "precio": 1000,
+        "price": 1000,
         "id": 8,
         "title": "Tampete",
-        "imageUrl": "https://picsum.photos/id/7/600"
+        "imageUrl": "https://picsum.photos/id/80/600"
     },{
-        "precio": 5000,
+        "price": 5000,
         "id": 9,
         "title": "Plancha",
-        "imageUrl": "https://picsum.photos/id/8/600"
+        "imageUrl": "https://picsum.photos/id/90/600"
     },{
-        "precio": 40,
+        "price": 40,
         "id": 10,
         "title": "Poster",
-        "imageUrl": "https://picsum.photos/id/9/600"
+        "imageUrl": "https://picsum.photos/id/100/600"
     }
 ]
